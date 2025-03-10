@@ -96,7 +96,7 @@ import ProtectedRoute from './pages/ProtectedRoute';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/Vedant-Travels'>
       <Header/>
       <ScrollToTop/>
 
