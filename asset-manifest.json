@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Vedant-Travels/static/css/main.6edb1359.css",
+    "main.js": "/Vedant-Travels/static/js/main.fe963557.js",
+    "static/js/453.b4831c8d.chunk.js": "/Vedant-Travels/static/js/453.b4831c8d.chunk.js",
+    "static/media/fa-duotone-900.ttf": "/Vedant-Travels/static/media/fa-duotone-900.9a9b1affef09fa1b6ed1.ttf",
+    "static/media/shape-3.png": "/Vedant-Travels/static/media/shape-3.37b378e71916222bfa87.png",
+    "static/media/fa-thin-100.ttf": "/Vedant-Travels/static/media/fa-thin-100.e9857e8add32255d1b04.ttf",
+    "static/media/fa-light-300.ttf": "/Vedant-Travels/static/media/fa-light-300.02ed6a2e5b79a0710156.ttf",
+    "static/media/fa-regular-400.ttf": "/Vedant-Travels/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/fa-solid-900.ttf": "/Vedant-Travels/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/shape-6.png": "/Vedant-Travels/static/media/shape-6.d06e7618573c7485b574.png",
+    "static/media/fa-thin-100.woff2": "/Vedant-Travels/static/media/fa-thin-100.33c2991a06db4396e56a.woff2",
+    "static/media/fa-duotone-900.woff2": "/Vedant-Travels/static/media/fa-duotone-900.d87ee5c7c02d2920c131.woff2",
+    "static/media/fa-light-300.woff2": "/Vedant-Travels/static/media/fa-light-300.18596994182b05356f93.woff2",
+    "static/media/fa-regular-400.woff2": "/Vedant-Travels/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/fa-solid-900.woff2": "/Vedant-Travels/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/bg.jpg": "/Vedant-Travels/static/media/bg.f3020bedf4df59700287.jpg",
+    "static/media/01.jpg": "/Vedant-Travels/static/media/01.edd2d525a2428b38dabb.jpg",
+    "static/media/fa-brands-400.ttf": "/Vedant-Travels/static/media/fa-brands-400.dbcb0917dd88a81503b3.ttf",
+    "static/media/fa-brands-400.woff2": "/Vedant-Travels/static/media/fa-brands-400.e0685453384dbe061fe9.woff2",
+    "static/media/shape-7.png": "/Vedant-Travels/static/media/shape-7.1203096c9ac29f5ec218.png",
+    "static/media/shape-4.png": "/Vedant-Travels/static/media/shape-4.f5db248c5f9008e7e39d.png",
+    "static/media/fa-v4compatibility.ttf": "/Vedant-Travels/static/media/fa-v4compatibility.c8460512b70895617fd8.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Vedant-Travels/static/media/fa-v4compatibility.41a3700cf0f7ca715efa.woff2",
+    "index.html": "/Vedant-Travels/index.html",
+    "static/media/slick.svg": "/Vedant-Travels/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Vedant-Travels/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Vedant-Travels/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Vedant-Travels/static/media/slick.295183786cd8a1389865.woff",
+    "main.6edb1359.css.map": "/Vedant-Travels/static/css/main.6edb1359.css.map",
+    "main.fe963557.js.map": "/Vedant-Travels/static/js/main.fe963557.js.map",
+    "453.b4831c8d.chunk.js.map": "/Vedant-Travels/static/js/453.b4831c8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6edb1359.css",
+    "static/js/main.fe963557.js"
+  ]
+}
