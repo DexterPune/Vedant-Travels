@@ -1,5 +1,5 @@
 {
-  "short_name": " Vedant Travels",
+  "short_name": "Vedant Travels",
   "name": "Vedant Travels",
   "icons": [
     {
@@ -18,7 +18,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/Vedant-Travels/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
