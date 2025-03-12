@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import { Navbar, Nav, NavDropdown, Container } from 'react-bootstrap';
-import { Link } from 'react-router-dom';
 
 
 const Header = () => {
@@ -62,9 +61,9 @@ const Header = () => {
                 <Nav.Link href="/" className='fw-bold nav-item'>Home</Nav.Link>
 
                 <NavDropdown title="About " id="about-us-dropdown " className='fw-bold'>
-                  <Link href="about" className='fw-bold nav-item'>About Us</Link>
-                  <Link href="/term-condition" className='fw-bold nav-item'>Term & Condition </Link>
-                  <Link href="/privacy-policy" className='fw-bold '>Privacy & Policy </Link>
+                  <NavDropdown.Item href="about" className='fw-bold nav-item'>About Us</NavDropdown.Item>
+                  <NavDropdown.Item href="/term-condition" className='fw-bold nav-item'>Term & Condition </NavDropdown.Item>
+                  <NavDropdown.Item href="/privacy-policy" className='fw-bold '>Privacy & Policy </NavDropdown.Item>
                
                 </NavDropdown>
 
@@ -82,7 +81,7 @@ const Header = () => {
                   
                 </NavDropdown>
 
-                <Link href="/booking" className='fw-bold nav-item'>Booking</Link>
+                <Nav.Link href="/booking" className='fw-bold nav-item'>Booking</Nav.Link>
                 <Nav.Link href="/gallery" className='fw-bold nav-item'>Gallery</Nav.Link>
 
                 <NavDropdown title="Contact" id="contact-dropdown" className='fw-bold'>
