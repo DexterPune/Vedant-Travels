@@ -87,9 +87,7 @@ import Sedancabsbookinginpune from './pages/Sedan Cabs Booking in Pune';
 import Forceurbaniaonrentinpune from './pages/Force Urbania on Rent in Pune';
 import Fortuneronrentinpune from './pages/Fortuner on Rent in Pune';
 import PuneMumbaiCab from './pages/PuneMumbaiCab';
-import LoginPage from './pages/LoginPage';
-import Dashboard from './pages/Dashboard';
-import ProtectedRoute from './pages/ProtectedRoute';
+
 
 
 
@@ -101,14 +99,7 @@ function App() {
       <ScrollToTop/>
 
       <Routes>
-      <Route path="/login" element={<LoginPage />} />
-        
-        {/* Protected Route for Dashboard */}
-        <Route 
-          path="/dashboard" 
-          element={<ProtectedRoute element={<Dashboard />} />} 
-        />
-        
+
         <Route path="/" element={<HeroSlider />} />
         <Route path="/about" element={<About />} />
         <Route path="/term-condition" element={<TermsConditions />} />
