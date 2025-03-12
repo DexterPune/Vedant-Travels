@@ -94,7 +94,8 @@ import PuneMumbaiCab from './pages/PuneMumbaiCab';
 
 function App() {
   return (
-    <BrowserRouter basename='/Vedant-Travels'>
+    // <BrowserRouter basename='/Vedant-Travels'>
+    <BrowserRouter>
       <Header/>
       <ScrollToTop/>
 
