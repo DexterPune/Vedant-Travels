@@ -1,6 +1,7 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes, BrowserRouter } from 'react-router-dom';
-import { HashRouter as Router } from "react-router-dom";
+// import { BrowserRouter as Router, Route, Routes, BrowserRouter } from 'react-router-dom';
+// import { HashRouter as Router } from "react-router-dom";
+import { Routes, Route, BrowserRouter as Router } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "@fortawesome/fontawesome-free/css/all.min.css";
 import Header from './components/Header';
@@ -95,7 +96,8 @@ import PuneMumbaiCab from './pages/PuneMumbaiCab';
 
 function App() {
   return (
-    <HashRouter basename='/Vedant-Travels'>
+    // <Router basename='/Vedant-Travels'>
+    <Router>
       <Header/>
       <ScrollToTop/>
 
@@ -187,7 +189,7 @@ function App() {
 
       </Routes>
       <Footer/>
-    </HashRouter>
+    </Router>
   );
 }
 
