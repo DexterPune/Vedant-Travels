@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Vedant-Travels/static/css/main.6edb1359.css",
-    "main.js": "/Vedant-Travels/static/js/main.dabf75b8.js",
+    "main.js": "/Vedant-Travels/static/js/main.4b228f92.js",
     "static/js/453.b4831c8d.chunk.js": "/Vedant-Travels/static/js/453.b4831c8d.chunk.js",
     "static/media/fa-duotone-900.ttf": "/Vedant-Travels/static/media/fa-duotone-900.9a9b1affef09fa1b6ed1.ttf",
     "static/media/shape-3.png": "/Vedant-Travels/static/media/shape-3.37b378e71916222bfa87.png",
@@ -29,11 +29,11 @@
     "static/media/slick.ttf": "/Vedant-Travels/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/Vedant-Travels/static/media/slick.295183786cd8a1389865.woff",
     "main.6edb1359.css.map": "/Vedant-Travels/static/css/main.6edb1359.css.map",
-    "main.dabf75b8.js.map": "/Vedant-Travels/static/js/main.dabf75b8.js.map",
+    "main.4b228f92.js.map": "/Vedant-Travels/static/js/main.4b228f92.js.map",
     "453.b4831c8d.chunk.js.map": "/Vedant-Travels/static/js/453.b4831c8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6edb1359.css",
-    "static/js/main.dabf75b8.js"
+    "static/js/main.4b228f92.js"
   ]
 }
