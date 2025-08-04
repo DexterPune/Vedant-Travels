@@ -3,18 +3,18 @@ import { Helmet } from 'react-helmet';
 
 const Booking = () => {
   const taxiPackages = [
-    { id: 1, title: 'Honda City', baseCharge: '4+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/1.jpg' },
-    { id: 2, title: 'Swift Dezire', baseCharge: '4+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/2.jpg' },
-    { id: 3, title: 'Aura', baseCharge: '4+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/3.jpg' },
-    { id: 4, title: 'Ertiga', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/5.jpg' },
-    { id: 5, title: 'Kia Carence', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/9.jpg' },
-    { id: 6, title: 'Innova Cab', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/6.jpg' },
-    { id: 7, title: 'Scorpio', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/8.jpg' },
-    { id: 8, title: 'Innova Crysta', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/4.jpg' },
-    { id: 9, title: 'Tavera', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/7.jpg' },
-    { id: 10, title: 'Tempo Traveller', baseCharge: '12+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/10.jpg' },
-    { id: 11, title: 'Mini Bus', baseCharge: '32', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/11.jpg' },
-    { id: 12, title: 'Luxury Bus', baseCharge: '35', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: '/images/ourfleet/12.jpg' },
+    { id: 1, title: 'Honda City', baseCharge: '4+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/1.jpg' },
+    { id: 2, title: 'Swift Dezire', baseCharge: '4+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/2.jpg' },
+    { id: 3, title: 'Aura', baseCharge: '4+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/3.jpg' },
+    { id: 4, title: 'Ertiga', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/5.jpg' },
+    { id: 5, title: 'Kia Carence', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/9.jpg' },
+    { id: 6, title: 'Innova Cab', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/6.jpg' },
+    { id: 7, title: 'Scorpio', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/8.jpg' },
+    { id: 8, title: 'Innova Crysta', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/4.jpg' },
+    { id: 9, title: 'Tavera', baseCharge: '6+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/7.jpg' },
+    { id: 10, title: 'Tempo Traveller', baseCharge: '12+1', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/10.jpg' },
+    { id: 11, title: 'Mini Bus', baseCharge: '32', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/11.jpg' },
+    { id: 12, title: 'Luxury Bus', baseCharge: '35', distanceAllowance: '₹500', pricePerKm: '₹13', bookingFee: '₹150', extraPassengers: '₹250', imageUrl: './images/ourfleet/12.jpg' },
   ];
 
   const handleBooking = (vehicleName) => {

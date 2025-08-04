@@ -271,128 +271,128 @@ function Kiacarenceonrentinpune() {
 
     const Images = [
         {
-            place: "/images/keyword/1.jpg",
+            place: "./images/keyword/1.jpg",
             text: "Pune to Mumbai Cab",
         },
         {
-            place: "/images/keyword/2.jpg",
+            place: "./images/keyword/2.jpg",
             text: "Pune to Mumbai Airport Cab",
         },
         {
-            place: "/images/keyword/3.jpg",
+            place: "./images/keyword/3.jpg",
             text: "Pune to Mumbai International Airport Cab",
         },
         {
-            place: "/images/keyword/4.jpg",
+            place: "./images/keyword/4.jpg",
             text: "Pune to Mumbai One Way Cab",
         },
         {
-            place: "/images/keyword/5.jpg",
+            place: "./images/keyword/5.jpg",
             text: "Pune Mumbai Car Hire",
         },
         {
-            place: "/images/keyword/6.jpg",
+            place: "./images/keyword/6.jpg",
             text: "  Pune to Mumbai Taxi Fare ",
         },
         {
-            place: "/images/keyword/7.jpg",
+            place: "./images/keyword/7.jpg",
             text: "Pune to Mumbai Online Cab Booking",
         },
 
         {
-            place: "/images/keyword/8.jpg",
+            place: "./images/keyword/8.jpg",
             text: " Pimpri Chinchwad to Mumbai Cab",
         },
 
         {
-            place: "/images/keyword/9.jpg",
+            place: "./images/keyword/9.jpg",
             text: "Baner to Mumbai Cabs",
         },
         {
-            place: "/images/keyword/10.jpg",
+            place: "./images/keyword/10.jpg",
             text: "Hinjewadi to Mumbai Cab",
         },
 
         {
-            place: "/images/keyword/11.jpg",
+            place: "./images/keyword/11.jpg",
             text: "Pimple Saudagar to Mumbai Cab Service",
         },
         {
-            place: "/images/keyword/12.jpg",
+            place: "./images/keyword/12.jpg",
             text: "Wakad to Mumbai Cab",
         },
 
         {
-            place: "/images/keyword/13.jpg",
+            place: "./images/keyword/13.jpg",
             text: "Hadapsar to Mumbai Cab",
         },
 
         {
-            place: "/images/keyword/14.jpg",
+            place: "./images/keyword/14.jpg",
             text: "Kalyani Nagar to Mumbai Taxi",
         },
         {
-            place: "/images/keyword/15.jpg",
+            place: "./images/keyword/15.jpg",
             text: "Koregaon Park to Mumbai Cab",
         },
         {
-            place: "/images/keyword/16.jpg",
+            place: "./images/keyword/16.jpg",
             text: " Kothrud to Mumbai Cab",
         },
         {
-            place: "/images/keyword/17.jpg",
+            place: "./images/keyword/17.jpg",
             text: "Kharadi to Mumbai Cab",
         },
         {
-            place: "/images/keyword/18.jpg",
+            place: "./images/keyword/18.jpg",
             text: "Shivajinagar to Mumbai Cab",
         },
         {
-            place: "/images/keyword/19.jpg",
+            place: "./images/keyword/19.jpg",
             text: "Pune to Mumbai Ertiga Cab",
         },
         {
-            place: "/images/keyword/20.jpg",
+            place: "./images/keyword/20.jpg",
             text: " Pune to Mumbai Innova Crysta Cab",
         },
         
         {
-            place: "/images/keyword/22.jpg",
+            place: "./images/keyword/22.jpg",
             text: "Kondhwa to Mumbai Cab",
         },
         {
-            place: "/images/keyword/23.jpg",
+            place: "./images/keyword/23.jpg",
             text: "Viman Nagar to Mumbai Cabs",
         },
         {
-            place: "/images/keyword/24.jpg",
+            place: "./images/keyword/24.jpg",
             text: "Katraj to Mumbai Cab Service",
         },
         {
-            place: "/images/keyword/25.jpg",
+            place: "./images/keyword/25.jpg",
             text: " Pune Station to Mumbai Cabs Service",
         },
         {
-            place: "/images/keyword/26.jpg",
+            place: "./images/keyword/26.jpg",
             text: "Boat Club Road to Mumbai Cab ",
         },
         {
-            place: "/images/keyword/27.jpg",
+            place: "./images/keyword/27.jpg",
             text: " Vishrantwadi to Mumbai Cab",
         },
     ];
 
 
     const images = [
-        { src: "/images/ourfleet/1.jpg", alt: "Image 1" },
-        { src: "/images/ourfleet/5.jpg", alt: "Image 1" },
-        { src: "/images/ourfleet/2.jpg", alt: "Image 1" },
-        { src: "/images/ourfleet/3.jpg", alt: "Image 1" },
-        { src: "/images/ourfleet/4.jpg", alt: "Image 1" },
-        { src: "/images/ourfleet/7.jpg", alt: "Image 1" },
-        { src: "/images/ourfleet/8.jpg", alt: "Image 1" },
-        { src: "/images/ourfleet/9.jpg", alt: "Image 1" },
-        { src: "/images/ourfleet/6.jpg", alt: "Image 1" },
+        { src: "./images/ourfleet/1.jpg", alt: "Image 1" },
+        { src: "./images/ourfleet/5.jpg", alt: "Image 1" },
+        { src: "./images/ourfleet/2.jpg", alt: "Image 1" },
+        { src: "./images/ourfleet/3.jpg", alt: "Image 1" },
+        { src: "./images/ourfleet/4.jpg", alt: "Image 1" },
+        { src: "./images/ourfleet/7.jpg", alt: "Image 1" },
+        { src: "./images/ourfleet/8.jpg", alt: "Image 1" },
+        { src: "./images/ourfleet/9.jpg", alt: "Image 1" },
+        { src: "./images/ourfleet/6.jpg", alt: "Image 1" },
 
     ];
 
@@ -455,7 +455,7 @@ function Kiacarenceonrentinpune() {
                 <div className="container-fluid" >
                     <div className="row container-fluid">
                         <div className="col-12 col-md-7 ">
-                            <img src='/images/keyword/69.jpg' alt='img' />
+                            <img src='./images/keyword/69.jpg' alt='img' />
                             <h3 className="py-1"
                                 style={{
                                     color: '#322E77', // Red color for the title 

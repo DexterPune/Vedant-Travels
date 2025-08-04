@@ -119,18 +119,18 @@ import { Helmet } from 'react-helmet';
 const Gallery = () => {
   // Sample images with unique ids and different src/alt values
   const images = [
-    { id: 1, src: '/images/ourfleet/1.jpg', alt: 'Image 1' },
-    { id: 2, src: '/images/ourfleet/2.jpg', alt: 'Image 2' },
-    { id: 3, src: '/images/ourfleet/3.jpg', alt: 'Image 3' },
-    { id: 4, src: '/images/ourfleet/4.jpg', alt: 'Image 4' },
-    { id: 5, src: '/images/ourfleet/5.jpg', alt: 'Image 5' },
-    { id: 6, src: '/images/ourfleet/6.jpg', alt: 'Image 6' },
-    { id: 6, src: '/images/ourfleet/7.jpg', alt: 'Image 6' },
-    { id: 6, src: '/images/ourfleet/8.jpg', alt: 'Image 6' },
-    { id: 6, src: '/images/ourfleet/9.jpg', alt: 'Image 6' },
-    { id: 6, src: '/images/ourfleet/10.jpg', alt: 'Image 6' },
-    { id: 6, src: '/images/ourfleet/11.jpg', alt: 'Image 6' },
-    { id: 6, src: '/images/ourfleet/12.jpg', alt: 'Image 6' },
+    { id: 1, src: './images/ourfleet/1.jpg', alt: 'Image 1' },
+    { id: 2, src: './images/ourfleet/2.jpg', alt: 'Image 2' },
+    { id: 3, src: './images/ourfleet/3.jpg', alt: 'Image 3' },
+    { id: 4, src: './images/ourfleet/4.jpg', alt: 'Image 4' },
+    { id: 5, src: './images/ourfleet/5.jpg', alt: 'Image 5' },
+    { id: 6, src: './images/ourfleet/6.jpg', alt: 'Image 6' },
+    { id: 6, src: './images/ourfleet/7.jpg', alt: 'Image 6' },
+    { id: 6, src: './images/ourfleet/8.jpg', alt: 'Image 6' },
+    { id: 6, src: './images/ourfleet/9.jpg', alt: 'Image 6' },
+    { id: 6, src: './images/ourfleet/10.jpg', alt: 'Image 6' },
+    { id: 6, src: './images/ourfleet/11.jpg', alt: 'Image 6' },
+    { id: 6, src: './images/ourfleet/12.jpg', alt: 'Image 6' },
   ];
 
   const [isModalOpen, setIsModalOpen] = useState(false);

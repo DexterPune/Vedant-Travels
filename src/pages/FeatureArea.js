@@ -7,28 +7,28 @@ const FeatureArea = () => {
       title: "Safety Guarantee",
       description:
         "At Vedant Travels, we prioritize your safety. Our vehicles are regularly inspected, and our drivers are trained to ensure a secure and comfortable journey for all passengers.",
-      icon: "/img/icon/taxi-safety.svg",
+      icon: "./img/icon/taxi-safety.svg",
       alt: "Safety Guarantee",
     },
     {
       title: "Fast Pickup",
       description:
         "With Vedant Travels, we guarantee fast and efficient pick-ups. Whether you're booking a ride for an airport transfer or a city tour, we ensure prompt service.",
-      icon: "/img/icon/pickup.svg",
+      icon: "./img/icon/pickup.svg",
       alt: "Fast Pickup",
     },
     {
       title: "Affordable Rate",
       description:
         "Vedant Travels offers affordable rates for all our transportation services. Get the best value for your money without compromising on quality or comfort.",
-      icon: "/img/icon/money.svg",
+      icon: "./img/icon/money.svg",
       alt: "Affordable Rate",
     },
     {
       title: "24/7 Support",
       description:
         "Our dedicated customer support team at Vedant Travels is available 24/7 to assist you with bookings, inquiries, and any issues you might face during your journey.",
-      icon: "/img/icon/support.svg",
+      icon: "./img/icon/support.svg",
       alt: "24/7 Support",
     },
   ];

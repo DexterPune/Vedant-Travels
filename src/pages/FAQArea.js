@@ -58,7 +58,7 @@ const FAQArea = () => {
               <p className="about-text">
               At Vedant Travels, we focus on delivering a smooth and comfortable travel experience. Our services are crafted to provide you with safe, dependable, and convenient transportation, whether you're traveling locally or on outstation trips. With a fleet of well-maintained vehicles and experienced drivers, we guarantee that each journey is enjoyable, on time, and hassle-free.              </p>
               <div className="faq-img mt-3">
-                <img src="/img/faq/01.jpg" alt="FAQ" />
+                <img src="./img/faq/01.jpg" alt="FAQ" />
               </div>
             </div>
           </div>

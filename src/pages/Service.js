@@ -3,37 +3,37 @@ import React from 'react';
 const services = [
   {
     title: 'Online Booking',
-    image: '/img/icon/taxi-booking-1.svg',
+    image: './img/icon/taxi-booking-1.svg',
     description: 'Vedant Cab offers an easy and secure online booking system, allowing you to book your ride quickly with just a few clicks from anywhere.',
     link: '/booking'
   },
   {
     title: 'City Transport',
-    image: '/img/icon/city-taxi.svg',
+    image: './img/icon/city-taxi.svg',
     description: 'For comfortable city travel, Vedant Cab provides reliable transport services that ensure timely pick-up and drop-off across the city.',
     link: '/booking'
   },
   {
     title: 'Airport Transport',
-    image: '/img/icon/airport.svg',
+    image: './img/icon/airport.svg',
     description: 'With Vedant Cab, enjoy stress-free airport transfers. We ensure timely pick-ups and drop-offs to make your travel experience smooth.',
     link: '/booking'
   },
   {
     title: 'Business Transport',
-    image: '/img/icon/business.svg',
+    image: './img/icon/business.svg',
     description: 'Vedant Cab offers premium business transport services, providing comfortable rides for corporate events, meetings, and airport transfers.',
     link: '/booking'
   },
   {
     title: 'Regular Transport',
-    image: '/img/icon/taxi-2.svg',
+    image: './img/icon/taxi-2.svg',
     description: 'For daily transportation, Vedant Cab ensures reliable and comfortable rides. Whether commuting or running errands, we’ve got your travel needs covered.',
     link: '/booking'
   },
   {
     title: 'Tour Transport',
-    image: '/img/icon/taxi.svg',
+    image: './img/icon/taxi.svg',
     description: 'Vedant Cab’s tour transport service offers safe and comfortable rides for sightseeing. Explore new places with us while enjoying a smooth journey.',
     link: '/booking'
   }

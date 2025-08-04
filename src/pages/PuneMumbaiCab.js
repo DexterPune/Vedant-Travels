@@ -37,19 +37,19 @@ const PuneMumbaiCab = () => {
       <section className="vedant-cab-options">
        
         <div className="vedant-cab-card">
-          <img src="/images/ourfleet/5.jpg" alt="Innova Crysta" />
+          <img src="./images/ourfleet/5.jpg" alt="Innova Crysta" />
           <h3>Innova Crysta</h3>
           <p>Luxury travel made easy. Spacious, comfortable, and equipped with all modern amenities for a smooth ride. Ideal for corporate events, family trips, and long-distance journeys.</p>
           
         </div>
         <div className="vedant-cab-card">
-          <img src="/images/ourfleet/6.jpg" alt="Innova" />
+          <img src="./images/ourfleet/6.jpg" alt="Innova" />
           <h3>Innova</h3>
           <p>The perfect blend of comfort and economy, the Ertiga is ideal for small groups or families. A reliable and budget-friendly choice for your travels from Pune to Mumbai.</p>
           
         </div>
         <div className="vedant-cab-card">
-          <img src="/images/ourfleet/2.jpg" alt="Swift Desire" />
+          <img src="./images/ourfleet/2.jpg" alt="Swift Desire" />
           <h3>Swift Desire</h3>
           <p>For solo travelers or small groups, our Swift Desire offers a standard, comfortable, and affordable option. Perfect for quick trips and those looking for a no-fuss ride.</p>
           

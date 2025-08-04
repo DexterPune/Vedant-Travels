@@ -14,7 +14,7 @@ const TaxiArea = () => {
       airCondition: 'Yes',
       gps: 'Yes',
       driverChoice: 'Yes',
-      img: '/images/ourfleet/2.jpg',
+      img: './images/ourfleet/2.jpg',
       categories: ['cat1', 'cat2'],
     },
     {
@@ -27,7 +27,7 @@ const TaxiArea = () => {
       airCondition: 'Yes',
       gps: 'Yes',
       driverChoice: 'Yes',
-      img: '/images/ourfleet/1.jpg',
+      img: './images/ourfleet/1.jpg',
       categories: ['cat1', 'cat4'],
     },
     {
@@ -40,7 +40,7 @@ const TaxiArea = () => {
       airCondition: 'Yes',
       gps: 'Yes',
       driverChoice: 'Yes',
-      img: '/images/ourfleet/3.jpg',
+      img: './images/ourfleet/3.jpg',
       categories: ['cat4'],
     },
     {
@@ -53,7 +53,7 @@ const TaxiArea = () => {
       airCondition: 'Yes',
       gps: 'Yes',
       driverChoice: 'Yes',
-      img: '/images/ourfleet/9.jpg',
+      img: './images/ourfleet/9.jpg',
       categories: ['cat1', 'cat3'],
     },
     {
@@ -66,7 +66,7 @@ const TaxiArea = () => {
       airCondition: 'Yes',
       gps: 'Yes',
       driverChoice: 'Yes',
-      img: '/images/ourfleet/4.jpg',
+      img: './images/ourfleet/4.jpg',
       categories: ['cat3', 'cat4'],
     },
     {
@@ -79,7 +79,7 @@ const TaxiArea = () => {
       airCondition: 'Yes',
       gps: 'Yes',
       driverChoice: 'Yes',
-      img: '/images/ourfleet/8.jpg',
+      img: './images/ourfleet/8.jpg',
       categories: ['cat1', 'cat2', 'cat3'],
     },
 

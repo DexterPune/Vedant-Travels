@@ -4,25 +4,25 @@ const CounterArea = () => {
   const counters = [
     {
       id: 1,
-      icon: '/img/icon/taxi-1.svg',
+      icon: './img/icon/taxi-1.svg',
       countTo: 5300,
       title: '+ Client Served',
     },
     {
       id: 2,
-      icon: '/img/icon/happy.svg',
+      icon: './img/icon/happy.svg',
       countTo: 4000,
       title: '+ Happy Clients',
     },
     {
       id: 3,
-      icon: '/img/icon/driver.svg',
+      icon: './img/icon/driver.svg',
       countTo: 100,
       title: '+ Vehicle Fleet',
     },
     {
       id: 4,
-      icon: '/img/icon/trip.svg',
+      icon: './img/icon/trip.svg',
       countTo: 1015,
       title: '+ Complate Trips ',
     },

@@ -4,7 +4,7 @@ const BlogArea = () => {
   const blogPosts = [
     {
       id: 1,
-      image: "/images/ourfleet/2.jpg",
+      image: "./images/ourfleet/2.jpg",
       author: "Vedant Travels",
       date: "February 23, 2023",
       title: "Pune to Mumbai Cab",
@@ -13,7 +13,7 @@ const BlogArea = () => {
     },
     {
       id: 2,
-      image: "/images/ourfleet/5.jpg",
+      image: "./images/ourfleet/5.jpg",
       author: "Vedant Travels",
       date: "February 23, 2023",
       title: "Mumbai Airport to Pune  Cab",
@@ -22,7 +22,7 @@ const BlogArea = () => {
     },
     {
       id: 3,
-      image: "/images/ourfleet/3.jpg",
+      image: "./images/ourfleet/3.jpg",
       author: "Vedant Travels",
       date: "February 23, 2023",
       title: "Mumbai to Pune Cabs",

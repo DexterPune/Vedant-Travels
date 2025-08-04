@@ -4,7 +4,7 @@ const chooseItems = [
   {
     id: 1,
     count: '01',
-    icon: '/img/icon/taxi-1.svg',
+    icon: './img/icon/taxi-1.svg',
     title: 'Best Quality Cabs',
     description:
       'Vedant Travels offers the best quality cabs with exceptional comfort and cleanliness. Our fleet includes well-maintained vehicles, ensuring a smooth and comfortable journey every time.',
@@ -12,7 +12,7 @@ const chooseItems = [
   {
     id: 2,
     count: '02',
-    icon: '/img/icon/driver.svg',
+    icon: './img/icon/driver.svg',
     title: 'Experienced Drivers',
     description:
       'Our expert drivers are well-trained and familiar with all routes, ensuring a safe and efficient travel experience. With professional and courteous service, they make sure you enjoy a relaxed and enjoyable journey.',
@@ -20,7 +20,7 @@ const chooseItems = [
   {
     id: 3,
     count: '03',
-    icon: '/img/icon/taxi-location.svg',
+    icon: './img/icon/taxi-location.svg',
     title: 'Wide Coverage Area',
     description:
       'Vedant Travels offers reliable and timely cab services for city travel, airport transfers, and outstation trips. Whether it’s for business or leisure, we cover all your transportation needs with convenience and affordability.',
@@ -47,7 +47,7 @@ const ChooseArea = () => {
                 </p>
               </div>
               <div className="choose-img wow fadeInUp" data-wow-delay=".25s">
-                <img src="/images/innova.webp" alt="Why Choose Us" />
+                <img src="./images/innova.webp" alt="Why Choose Us" />
               </div>
             </div>
           </div>
