@@ -450,7 +450,7 @@ function Kharaditomumbaicab() {
 
             <div
                 className="site-breadcrumb"
-                style={{ background: 'url(/img/breadcrumb/01.jpg)' }}
+                style={{ background: 'url(./img/breadcrumb/01.jpg)' }}
             >
                 <div className="container">
                     <h2 className="breadcrumb-title">{cardData.keyword}</h2>

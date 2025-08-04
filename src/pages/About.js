@@ -11,7 +11,7 @@ const About = () => {
 
       <div
         className="site-breadcrumb"
-        style={{ background: 'url(/img/breadcrumb/01.jpg)' }}
+        style={{ background: 'url(./img/breadcrumb/01.jpg)' }}
       >
         <div className="container">
           <h2 className="breadcrumb-title">About Us</h2>
@@ -32,11 +32,11 @@ const About = () => {
             <div className="col-lg-6">
               <div className="about-left wow fadeInLeft" data-wow-delay=".25s">
                 <div className="about-img">
-                  <img src="/images/car3.jpg" alt="About Image" />
+                  <img src="./images/car3.jpg" alt="About Image" />
                 </div>
                 <div className="about-experience">
                   <div className="about-experience-icon">
-                    <img src="/img/icon/taxi-booking.svg" alt="Taxi Booking Icon" />
+                    <img src="./img/icon/taxi-booking.svg" alt="Taxi Booking Icon" />
                   </div>
                   <b>15 Years Of <br /> Quality Service</b>
                 </div>

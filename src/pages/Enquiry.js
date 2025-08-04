@@ -37,7 +37,7 @@ const Enquiry = () => {
 
       <div
         className="site-breadcrumb"
-        style={{ background: 'url(/img/breadcrumb/01.jpg)' }}
+        style={{ background: 'url(./img/breadcrumb/01.jpg)' }}
       >
         <div className="container">
           <h2 className="breadcrumb-title">Enquiry  </h2>
@@ -63,7 +63,7 @@ const Enquiry = () => {
             <div className="row">
               <div className="col-lg-6 align-self-center">
                 <div className="enquiry-img">
-                  <img src="/img/contact/01.jpg" alt="Enquiry" />
+                  <img src="./img/contact/01.jpg" alt="Enquiry" />
                 </div>
               </div>
 

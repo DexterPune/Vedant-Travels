@@ -27,7 +27,7 @@ const Booking = () => {
     <>
     
 
-      <div className="site-breadcrumb" style={{ background: 'url(/img/breadcrumb/01.jpg)' }}>
+      <div className="site-breadcrumb" style={{ background: 'url(./img/breadcrumb/01.jpg)' }}>
         <div className="container">
           <h2 className="breadcrumb-title">Booking</h2>
           <ul className="breadcrumb-menu">
@@ -65,7 +65,7 @@ const Booking = () => {
                   </div>
                   <div className="rate-content">
                     <div className="rate-icon">
-                      <img src="/img/icon/taxi-1.svg" alt="Taxi Icon" />
+                      <img src="./img/icon/taxi-1.svg" alt="Taxi Icon" />
                     </div>
                     <div className="rate-feature">
                       <ul>
