@@ -10,7 +10,7 @@ const Footer = () => {
             <div className="col-md-6 col-lg-3">
               <div className="footer-widget-box about-us">
                 <a href="#" className="footer-logo">
-                  <img src="/images/logo1.jpg" alt="Logo" />
+                  <img src="./images/logo1.jpg" alt="Logo" />
                 </a>
                
                 <ul className="footer-contact">

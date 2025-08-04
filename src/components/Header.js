@@ -49,7 +49,7 @@ const Header = () => {
         <Navbar expand="lg">
           <Container>
             <Navbar.Brand href="">
-              <img src="/images/logo.jpg" alt="logo" />
+              <img src="./images/logo.jpg" alt="logo" />
             </Navbar.Brand>
 
             <Navbar.Toggle aria-controls="main_nav" onClick={toggleNav}>
