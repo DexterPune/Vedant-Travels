@@ -8,7 +8,7 @@ const AboutArea = () => {
           <div className="col-lg-6">
             <div className="about-left wow fadeInLeft" data-wow-delay=".25s">
               <div className="about-img">
-                <img src="./images/car2.png" alt="" />
+                <img src="ages/car2.png" alt="" />
               </div>
               {/* <div className="about-experience">
                 <div className="about-experience-icon">
