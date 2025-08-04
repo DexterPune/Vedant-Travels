@@ -8,7 +8,7 @@ const AboutArea = () => {
           <div className="col-lg-6">
             <div className="about-left wow fadeInLeft" data-wow-delay=".25s">
               <div className="about-img">
-                <img src="https://www.spinny.com/blog/wp-content/uploads/2024/09/videoframe_0.webp" alt="" />
+                <img src="./images/car2.png" alt="" />
               </div>
               {/* <div className="about-experience">
                 <div className="about-experience-icon">
