@@ -89,19 +89,21 @@ import Sedancabsbookinginpune from './pages/Sedan Cabs Booking in Pune';
 import Forceurbaniaonrentinpune from './pages/Force Urbania on Rent in Pune';
 import Fortuneronrentinpune from './pages/Fortuner on Rent in Pune';
 import PuneMumbaiCab from './pages/PuneMumbaiCab';
+// import { BrowserRouter, Switch } from 'react-router-dom';
 
+import { BrowserRouter } from 'react-router-dom';
 
 
 
 
 function App() {
   return (
-    <Router basename='/Vedant-Travels'>
+    <BrowserRouter basename='/Vedant-Travels'>
     
       <Header/>
       <ScrollToTop/>
 
-      <Routes>
+       <Routes>
 
         <Route path="/" element={<HeroSlider />} />
         <Route path="/about" element={<About />} />
@@ -189,7 +191,7 @@ function App() {
 
       </Routes>
       <Footer/>
-    </Router>
+    </BrowserRouter>
   );
 }
 
